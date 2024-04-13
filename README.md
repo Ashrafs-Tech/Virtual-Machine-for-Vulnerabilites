@@ -39,4 +39,5 @@ I pasted the public IP address. After that, I put in the username and password t
 ![VL 15](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/d463fe90-bcc1-409b-a16f-b6c91683305b)
 
 
-## Step 2 is done. I have just created a separate virtual machine where outdated software will be downloaded. 
+## Step 2 is done. 
+I have just created a separate virtual machine where outdated software will be downloaded. 
