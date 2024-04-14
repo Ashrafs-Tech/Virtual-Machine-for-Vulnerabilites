@@ -15,25 +15,25 @@ Now that I created the virtual machine for the OpenVAS software, I need to creat
 ![VL 10](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/e9be1ba9-0bb4-41a8-acba-4718d0f5de54)
 
 
-It's very important that the 2nd virtual machine is placed in the same virtual network as the virtual machine that has OpenVAS. The virtual network is OpenVAS-vnet.
+- It's very important that the 2nd virtual machine is placed in the same virtual network as the virtual machine that has OpenVAS. The virtual network is OpenVAS-vnet.
 
 ![VL 11](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/fc5ce72d-35de-483f-a377-28f0050aa913)
 
 
-After that, I clicked create.  After the new virtual machine has been made, I will log into it remotely and download outdated software. 
+- After that, I clicked create.  After the new virtual machine has been made, I will log into it remotely and download outdated software. 
 
 ![VL 12](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/49806d18-c912-4109-9611-380ea4c7d085)
 
 
-I will then copy the public IP address of Wind10-Vulnerable.
+- I will then copy the public IP address of Wind10-Vulnerable.
 
 ![VL 13](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/153fa4ab-804f-41d1-b433-501a596de654)
 
 
-Then I will open up the Remote Desktop Connection in my Windows computer in order to log into the virtual machine I just created.
-* Put the MACos version here
+- Then I will open up the Remote Desktop Connection in my Windows computer in order to log into the virtual machine I just created.
 
-I pasted the public IP address. After that, I put in the username and password to log in the virtual machine. 
+
+- I pasted the public IP address. After that, I put in the username and password to log in the virtual machine. 
 
 ![VL 14](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/ff43d99b-c4b0-420a-ad0f-960bd0c8698c)
 
