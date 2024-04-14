@@ -1,7 +1,6 @@
 # Virtual Machine for Vulnerabilities
 
-![image](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/31bc643c-9784-46f9-9eef-2aa8b49a43ce)
-
+![image](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/assets/166546026/06b09c11-7743-4f81-8e63-eff08fe3f772)
 
 ## Intro
 
